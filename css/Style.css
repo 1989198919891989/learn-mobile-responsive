@@ -20,7 +20,7 @@ div.container {
     
 }
 .height-500 {
-     height: 500;   
+     min-height: 500;   
 }
 .p50 {
     padding: 50px;
